@@ -8,4 +8,8 @@
 五种语言：简体中文+英文+越南语+泰语+繁体中文
 
 亲测环境：宝塔+Nginx+php7.2+mysql5.6+Redis
+
+
+下载地址：https://mega-file.org/AKjq5
+Telegram:@iGod5
 Telegram:@iGod5
